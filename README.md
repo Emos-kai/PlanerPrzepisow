@@ -8,6 +8,6 @@ Jak zaktualizwoać Angular/CLI
 
 Uruchom komendy pod spodem na Linux/Mac z sudo 
 
-sudo npm uninstall -g angular-cli @angular/cli
+udo npm uninstall -g angular-cli @angular/cli <br/>
 npm cache clean --force
 sudo npm install -g @angular/cli
